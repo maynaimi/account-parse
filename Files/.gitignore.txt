@@ -1,0 +1,7 @@
+###################################################
+# Add txt files to be processed in this directory #
+###################################################
+
+# Allow empty directories to be committed
+*
+!.gitignore
