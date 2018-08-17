@@ -1,7 +1,8 @@
 # account-parse
 
-Little tool to parse the account transactions I receive from work. Received in text format, parsed to CSV.
+Little tool to parse the account transactions received from work. Received in text format, parsed to CSV. Place files under Files/.
 
-USAGE:
-# Store files for parsing in Files/
+## USAGE:
+```
 $ python account-parse.py
+```
